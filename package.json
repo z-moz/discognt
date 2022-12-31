@@ -4,12 +4,13 @@
   "description": "Main repo for SEI Group Project 3",
   "main": "server.js",
   "scripts": {
+    "analyze": "source-map-explorer 'build/static/js/*.js'",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "build": "cd client && npm install && npm run build",
     "dev": "nodemon server.js"
   },
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/zsmoz/Discognt.git"
   },
@@ -28,6 +29,7 @@
     "morgan": "^1.10.0",
     "node-fetch": "^3.2.10",
     "serve-favicon": "^2.5.0",
+    "source-map-explorer": "^2.5.3",
     "stripe": "^10.13.0",
     "uuid": "^9.0.0"
   },
