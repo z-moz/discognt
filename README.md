@@ -1,4 +1,4 @@
-<img src="./assets/images/image0.png" alt="banner"></img>
+<img src="./assets/images/image0.png" alt="banner" width="100%"></img>
 
 # **General Assembly Project 3: <br>Discogn't, a Discogs Marketplace clone**
 
@@ -50,10 +50,8 @@ The app is a clone of the Discogs marketplace. Users can search for music artist
 
 We worked in a group of three. We completed the project in two weeks working on it part time, a few hours most days and sometimes all day.
 
-The other team members were:
-
-Ryan Cooper - [GitHub repo](https://github.com/ryangcooper96/SEI-Mod03-Discognt)
-
+The other team members were: <br>
+Ryan Cooper - [GitHub repo](https://github.com/ryangcooper96/SEI-Mod03-Discognt)<br>
 Matthew Pitkin - [GitHub repo](https://github.com/MJPitkin/Mod03-eCommerce)
 
 ### Technologies Used
