@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zsmoz/Discognt.git"
+    "url": "git+https://github.com/z-moz/discognt.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/zsmoz/Discognt/blob/deployment-test/README.md",
+  "homepage": "https://github.com/z-moz/discognt/blob/deployment-test/README.md",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",

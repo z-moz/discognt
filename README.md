@@ -1,4 +1,4 @@
-<img src="./assets/images/image0.png" alt="banner" width="100%"></img>
+<img src="./client/assets/images/image0.png" alt="banner" width="100%"></img>
 
 # **General Assembly Project 3: <br>Discogn't, a Discogs Marketplace clone**
 
@@ -30,7 +30,7 @@ This was my first time making a full stack application and also the first time w
 The app is a clone of the Discogs marketplace. Users can search for music artists and albums in the Discogs database. They can look up information and images on the albums and artists, and sign up and log in to the app. Once logged in, users can buy albums, list their own copies of albums for sale, and add albums to a wishlist. The app is a full-stack application. The back end was created using an Express API and a Mongo database, and the front end was built with React.
 
 <div align="center">
-<img src="./assets/images/image5.png" alt="Screenshot of the homepage"></img>
+<img src="./client/assets/images/image5.png" alt="Screenshot of the homepage"></img>
 </div>
 &nbsp;
 
@@ -104,13 +104,13 @@ As this was the first time working in a team we wanted to be very clear on our p
 We used Excalidraw as our virtual whiteboard for wireframes, user stories and the ERD. This way everyone could see and follow each other's progress and thinking. This helped us stay organised and on track with our project. 
 
 <div align="center">
-<img src="./assets/images/image7.png" alt="Our virtual whiteboard"></img><br>
+<img src="./client/assets/images/image7.png" alt="Our virtual whiteboard"></img><br>
 <i>(Our virtual whiteboard)</i>
 </div>
 &nbsp;
 
 <div align="center">
-<img src="./assets/images/image1.png" alt="Wireframe examples"></img><br>
+<img src="./client/assets/images/image1.png" alt="Wireframe examples"></img><br>
 <i>(Wireframe examples)</i>
 </div>
 &nbsp;
@@ -120,7 +120,7 @@ These were the steps we implemented:
 We chose an API and designed the ERD, going through several iterations. We created models for album listings, collections, carts, and users, and stored the data for these in MongoDB. We used the Disconnect library to pull album and artist data from the Discog API. We created routes, models and controllers with basic search functions available on the front end. We built pages for albums and artists with search functions. We added user authentication and the ability for users to buy and list albums for sale.
 
 <div align="center">
-<img src="./assets/images/image6.png" alt="The final version of the ERD"></img><br>
+<img src="./client/assets/images/image6.png" alt="The final version of the ERD"></img><br>
 <i>(The final version of the ERD)</i>
 </div>
 &nbsp;
@@ -128,7 +128,7 @@ We chose an API and designed the ERD, going through several iterations. We creat
 To track progress we initially set up a Trello board. Later abandoned it in favour of using the user stories map as a visual aid. This proved to be very helpful for keeping track of progress. It ensured that the back end and front end were being built more or less in sync so we could test as we went. This worked really well for us. As we worked remotely we kept each other updated on Slack. We had Zoom meetings every 3 days or so, as well as impromptu calls when someone was stuck.
 
 <div align="center">
-<img src="./assets/images/image3.png" alt="Our user stories map"></img><br>
+<img src="./client/assets/images/image3.png" alt="Our user stories map"></img><br>
 <i>(Our user stories map)</i>
 </div>
 &nbsp;
@@ -237,20 +237,20 @@ function addListingToCart(listingId) {
 ```
 
 <div align="center">
-<img src="./assets/images/image2.png" alt="Screenshot of marketplace page" width="49%"></img>
-<img src="./assets/images/image10.png" alt="Screenshot of search result page" width="49%"></img><br>
+<img src="./client/assets/images/image2.png" alt="Screenshot of marketplace page" width="49%"></img>
+<img src="./client/assets/images/image10.png" alt="Screenshot of search result page" width="49%"></img><br>
 <i>(On the left: the marketplace page, on the right: a search result page)</i>
 </div>
 &nbsp;
 
 <div align="center">
-<img src="./assets/images/image4.png" alt="An artist’s page example"></img><br>
+<img src="./client/assets/images/image4.png" alt="An artist’s page example"></img><br>
 <i>(An artist’s page example)</i>
 </div>
 &nbsp;
 
 <div align="center">
-<img src="./assets/images/image8.png" alt="An album page example"></img><br>
+<img src="./client/assets/images/image8.png" alt="An album page example"></img><br>
 <i>(An album page example)</i>
 </div>
 &nbsp;
