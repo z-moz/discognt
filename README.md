@@ -8,7 +8,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Description](#description)
-- [Deployment link](#you-will-find-the-deployed-version-here-todo-link)
+- [Deployment Link](#you-will-find-the-deployed-version-here-discognt)
 - [Code Installation](#code-installation)
 - [Timeframe & Working Team](#timeframe--working-team)
 - [Technologies Used](#technologies-used)
@@ -34,7 +34,7 @@ The app is a clone of the Discogs marketplace. Users can search for music artist
 </div>
 &nbsp;
 
-### You will find the deployed version here: (TODO: link)
+### You will find the deployed version here: [Discogn't](https://discognt.netlify.app/)
 
 ### Code Installation
 
@@ -85,7 +85,7 @@ Matthew Pitkin - [GitHub repo](https://github.com/MJPitkin/Mod03-eCommerce)
 * Git/Github
 * Google Chrome Developer Tools
 * Excalidraw (Wireframing, ERD, User Stories and timeline)
-* (TODO: add tools used for deployment)
+* Render, Netlify
 
 ### Brief
 
