@@ -1,22 +1,16 @@
 {
-  "name": "sei-group-project-3",
+  "name": "server",
   "version": "1.0.0",
-  "description": "Main repo for SEI Group Project 3",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "analyze": "source-map-explorer 'build/static/js/*.js'",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/z-moz/discognt.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/z-moz/discognt/blob/deployment-test/README.md",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
